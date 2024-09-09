@@ -1,1 +1,1 @@
-# solar-system
+# Solar System Animation using HTML & CSS.
